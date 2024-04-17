@@ -1,4 +1,4 @@
-<div align="center">  
+<div align="left">  
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=I+am+student+developer.)](https://git.io/typing-svg)
 
@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
+
+<br>
 
 <div align="center">  
     
