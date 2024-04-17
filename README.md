@@ -1,6 +1,8 @@
 <div align="center">  
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=I+am+student+developer.)](https://git.io/typing-svg)
 
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=I+am+student+developer.)](https://git.io/typing-svg)
+</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -30,6 +32,8 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 
+<div align="center">  
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiseongwook11&show_icons=true&theme=radical)
 
 </div>
