@@ -1,9 +1,18 @@
-<div align="left">  
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=I+am+student+developer.)](https://git.io/typing-svg)
+# 최성욱 👋
 
-<div align="center">  
-    
+안녕하세요! 저는 **최성욱(Choi Seongwook)** 입니다.  
+프론트엔드 개발을 주로 하고있습니다
+
+---
+
+## 🛠 기술 스택
+- **Frontend:** React, React Hooks, Vite, styled-components
+- **Language:** TypeScript, JavaScript
+- **Tools:** Git, GitHub, Vercel, Figma, Vscode
+
+## 📫 연락처
+- 이메일: `seongwook.dev@gmail.com`
+
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiseongwook11&show_icons=true&theme=radical)
-
-</div>
